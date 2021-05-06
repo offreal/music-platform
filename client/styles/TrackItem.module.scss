@@ -1,0 +1,27 @@
+.track {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.trackImage {
+  max-height: 70px;
+  width: 70px;
+  margin: 0 10px;
+  border-radius: 5px;
+}
+
+.trackDescription {
+  width: 300px;
+  margin: 0 20px;
+}
+
+.nameArtist {
+  color: grey;
+  font-size: 12px;
+}
+
+.deleteButton {
+  margin-left: auto;
+}
